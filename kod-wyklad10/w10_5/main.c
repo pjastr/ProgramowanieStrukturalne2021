@@ -3,7 +3,7 @@
 
 int main()
 {
-    //tablica dwoch wskazników do int
+    //tablica dwoch wskaznikow do int
     int *wsk[2]= {
     (int[]) {3,4,5},
     (int[]) {-2,3,-4},

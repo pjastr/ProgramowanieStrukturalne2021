@@ -4,7 +4,7 @@
 int main()
 {
     int tab[3][2] = {{2,-3},{5,4},{8,7}};
-    //wskaznik do tablicy dwóch wartosci int
+    //wskaznik do tablicy dwoch wartosci int
     //operator [] ma wyzszy priorytet niz *
     int (*wsk)[2];
     wsk=tab;
